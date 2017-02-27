@@ -1,4 +1,4 @@
-<p style="text-align:center;">Hello World Lagi</p>
+<h1 align="center">Hello World Lagi</h1>
 
 Udah lama ga mau buat postingan di akun gh-page, cuman belum ada ide untuk nulis apa.
 Hampir 2 bulan, di akun github ini mulai aktif lagi untuk melakukan komitmen 1 commit 1 hari, tentang apapun itu. Mulai dari iseng-iseng bikin package untuk nodejs, nulis-nulis catatan hasil workshop, nulis catatan tentang error yang pernah dialami dan masih banyak lainnya, termasuk nulis di gh-pages.
